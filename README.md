@@ -35,3 +35,21 @@ A comprehensive exploration of the OWASP Top 10 security risks with hands-on cha
 10. **Server-Side Request Forgery (SSRF)**  
     Mitigation: Validate and sanitize user-supplied inputs for external requests.
 
+## Screenshots and Notes
+Each folder contains:
+- Solutions to challenges.
+- Screenshots demonstrating the tasks.
+- Key takeaways and lessons learned.
+
+## Resources
+- [OWASP Top 10](https://owasp.org/Top10/)
+- [TryHackMe](https://tryhackme.com)
+
+## Author
+Daniel Mwendwa Mwithui  
+[TryHackMe Profile](https://tryhackme.com/p/Daniel.Mwendwa?show_achievement_badge=owasp-10)
+
+## License
+This repository is open-source and distributed under the MIT License.
+
+
