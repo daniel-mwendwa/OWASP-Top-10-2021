@@ -47,7 +47,7 @@ Each folder contains:
 
 ## Author
 Daniel Mwendwa Mwithui  
-[TryHackMe Profile](https://tryhackme.com/p/Daniel.Mwendwa?show_achievement_badge=owasp-10)
+[LinkedIn Profile](https://www.linkedin.com/in/daniel-mwendwa-bsc-a475311b7/)
 
 ## License
 This repository is open-source and distributed under the MIT License.
