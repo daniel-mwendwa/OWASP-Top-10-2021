@@ -2,7 +2,7 @@
 
 
 ## Overview
-This repository contains solutions, insights, and screenshots for the OWASP Top 10 module on TryHackMe, completed by **Daniel Mwendwa Mwithui**. The exercises cover the most critical web application security risks, including mitigation strategies to enhance secure coding practices.
+A comprehensive exploration of the OWASP Top 10 security risks with hands-on challenges and mitigation techniques. The project includes detailed notes, solutions, and screenshotss, enhancing web application security knowledge.
 
 ## OWASP Top 10 Risks (2021)
 1. **Broken Access Control**  
